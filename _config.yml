@@ -21,12 +21,10 @@ platforms:
     link: https://www.linkedin.com/in/yijieyang-north
     
 navigation:
-  - name: Home Page
-    link: ./
-  - name: Resume
-    link: /myresume/
+  - name: Aboutme
+    link: https://wownorth0516.github.io/yijie.portfolio/myresume/
   - name: Project
-    link: /project/
+    link: https://wownorth0516.github.io/yijie.portfolio/project/
 
 
 # theme: jekyll-theme-minimal
