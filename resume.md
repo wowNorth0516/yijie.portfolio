@@ -1,8 +1,7 @@
 ---
 title: project
-id:myresume
+id: myresume
 permalink: /myresume/
-theme: jekyll-theme-minimal
 ---
 
 ## Education
