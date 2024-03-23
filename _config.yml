@@ -22,7 +22,7 @@ platforms:
     
 navigation:
   - name: Home Page
-    link: ./
+    link: .
   - name: Resume
     link: ./myresume
   - name: Project
