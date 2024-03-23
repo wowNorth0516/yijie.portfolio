@@ -22,11 +22,11 @@ platforms:
     
 navigation:
   - name: Home Page
-    link: .
+    link: ./
   - name: Resume
-    link: ./myresume
+    link: /myresume/
   - name: Project
-    link: ./project
+    link: /project/
 
 
 # theme: jekyll-theme-minimal
