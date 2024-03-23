@@ -6,7 +6,7 @@
 *Bachelor of Science, Major in Statistics, Minor in Economics* 
 
 ## Professional Experience
-**Data Analyst Intern** _(06/2022 - 08/2022)_  
+**Data Analyst Intern** _(06/2022 - 08/2022)_   
 *_FlexGen, Durham, NC_*
 
 - Optimized InfluxDB data extraction, cleaning, and wrangling, improving data processing time by 10%.
