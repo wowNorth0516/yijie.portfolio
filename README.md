@@ -40,6 +40,7 @@ _(01/2023 – 04/2023)_
 -	Data Analysis & Statistical Modeling: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Statistical Modeling, Excel, PyTorch, API, Dash
 -	License & Certifications: [Tableau Desktop Specialist](https://www.credly.com/badges/47772b8d-3ada-495c-a340-bc24dfe51685/public_url)
 -	Ongoing learning: Google Analytics
+-	test
 
 
 
