@@ -1,8 +1,8 @@
+layout: home
 title: Yijie Yang
 description: "Actively looking for a job"
 sidebar:
-  - myresume
-
+  nav: "myresume"
 
 
 theme: jekyll-theme-minimal
