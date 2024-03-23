@@ -1,6 +1,8 @@
 title: Yijie Yang
 description: "Actively looking for a job"
 theme: jekyll-theme-minimal
-# navbar-links:
-#   project: "project"
-read_time: true
+nav:
+  - label: Training exercises
+    page: project.md
+  - label: External docs
+    href: 'https://google.com'
