@@ -7,7 +7,7 @@
 
 ## Professional Experience
 **Data Analyst Intern** _(06/2022 - 08/2022)_   
-*_FlexGen, Durham, NC_*
+*FlexGen, Durham, NC*
 
 - Optimized InfluxDB data extraction, cleaning, and wrangling, improving data processing time by 10%.
 - Engineered an interactive web application using Dash and Bootstrapping in Python for battery conditions analysis in a team of 5, improving infrastructure and saving 30% time in web development.
@@ -16,7 +16,7 @@
 
 
 **Data Analyst Intern**_(06/2020 - 08/2020)_  
-*_SQH Tech, Remote, China_*
+*SQH Tech, Remote, China*
 
 - Queried the trust and trustee reports for a certain period, confirmed data accuracy over 200 reports; utilized Excel to generate quantitative reports with data visualization for clients.
 - Completed the Annual Business Survey (ABS) report in Excel, providing critical data for company financial strategies.
@@ -30,17 +30,16 @@ _(01/2023 – 04/2023)_
 -	Led front-end development, resulting in a web application that provided industry insights to job seekers and employees; presented functions such as user account authentication, timestamp filter, data visualization, and anonymous comment input; achieved responsive updates, less than 0.01s, with the database.
 
 **[Topic in NLP: Deeper Exploratory of Text Data in the Hotel Industry](https://docs.google.com/presentation/d/1biqIb0QbGwsKtpsmcakE0LAmIj5108ToGKEETWxrVUk/edit?usp=sharing)** _(03/2023 - 05/2023)_   
-*_Project Leader; Language/Package/Tool used: Python, TextBlob, Scikit Learn, NLTK_* 
+*Project Leader; Language/Package/Tool used: Python, TextBlob, Scikit Learn, NLTK* 
 -	Lead a team of 4 and conducted sentiment analysis using TextBlob and NLTK, revealing key customer decision-making patterns in hotel selections.
 -	Designed two methods to facilitate personalized hotel selection for customers; using LDA model to generate relevant hotel options; Random Forest model to achieve precise predictions down to a specific hotel name. 
 -	Enhanced model accuracy by 40% through TfidfVectorizer and GridSearchCV optimization techniques. 
 
 ## Skills & Certification
--	Programming Languages: Python, R, SAS, SQL (Including MySQL, PostgreSQL)
--	Data Analysis & Statistical Modeling: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Statistical Modeling, Excel, PyTorch, API, Dash
--	License & Certifications: [Tableau Desktop Specialist](https://www.credly.com/badges/47772b8d-3ada-495c-a340-bc24dfe51685/public_url)
--	Ongoing learning: Google Analytics
--	test
+-	_Programming Languages_: Python, R, SAS, SQL (Including MySQL, PostgreSQL)
+-	_Data Analysis & Statistical Modeling_: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Statistical Modeling, Excel, PyTorch, API, Dash
+-	_License & Certifications_: [Tableau Desktop Specialist](https://www.credly.com/badges/47772b8d-3ada-495c-a340-bc24dfe51685/public_url)
+-	_Ongoing learning_: Google Analytics
 
 
 
