@@ -4,10 +4,9 @@ theme: jekyll-theme-minimal
 # navbar-links:
 #   project: "project"
 defaults:
-  # _docs
+  # _posts
   - scope:
       path: ""
-      type: docs
+      type: posts
     values:
-      sidebar:
-        nav: "docs"
+      read_time: true
