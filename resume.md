@@ -42,7 +42,7 @@ I am Yijie Yang, a data analyst. I have great expereicne in python, R, MySQL, SA
 -	Enhanced model accuracy by 40% through TfidfVectorizer and GridSearchCV optimization techniques. 
 
 ## Skills & Certification
--	_Programming Languages_: Python, R, SAS, SQL (Including MySQL, PostgreSQL)
+-	_Programming Languages & Database_: Python, R, SAS, PostgreSQL
 -	_Data Analysis & Statistical Modeling_: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Statistical Modeling, Excel, PyTorch, API, Dash
 -	_License & Certifications_: [Tableau Desktop Specialist](https://www.credly.com/badges/47772b8d-3ada-495c-a340-bc24dfe51685/public_url)
 -	_Ongoing learning_: Google Analytics
