@@ -6,5 +6,5 @@ sidebar:
 
 
 theme: jekyll-theme-minimal
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+# remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
