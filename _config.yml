@@ -3,10 +3,4 @@ description: "Actively looking for a job"
 theme: jekyll-theme-minimal
 # navbar-links:
 #   project: "project"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time: true
+read_time: true
