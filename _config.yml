@@ -3,5 +3,11 @@ description: "Actively looking for a job"
 theme: jekyll-theme-minimal
 # navbar-links:
 #   project: "project"
-sidebar:
-  nav: "docs"
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
