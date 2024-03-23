@@ -1,6 +1,12 @@
 title: Yijie Yang
 description: "Actively looking for a job"
-theme: jekyll-theme-minimal
 sidebar:
-  - label: resume
-  - test
+  - getting-started
+  - label: Dev Docs
+    children:
+      - doc-1
+      - doc-2
+  - deployment
+
+
+theme: jekyll-theme-minimal
