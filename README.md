@@ -25,7 +25,7 @@
 ## Selected Project
 **[Company Database Design and Front-End Web Development](https://github.com/wowNorth0516/w4111-proj1)**
 _(01/2023 – 04/2023)_   
-*_Project Leader; Language/Package/Tool used: Python, PostgreSQL, Google Cloud Platform_*
+*Project Leader; Language/Package/Tool used: Python, PostgreSQL, Google Cloud Platform*
 -	Engineered a PostgreSQL database with over 5k entries on Google Cloud, ensuring data integrity and accuracy.
 -	Led front-end development, resulting in a web application that provided industry insights to job seekers and employees; presented functions such as user account authentication, timestamp filter, data visualization, and anonymous comment input; achieved responsive updates, less than 0.01s, with the database.
 
