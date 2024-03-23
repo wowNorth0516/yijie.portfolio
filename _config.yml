@@ -24,9 +24,9 @@ navigation:
   - name: Home Page
     link: ./
   - name: Resume
-    link: ./resume.md
+    link: ./myresume
   - name: Project
-    link: ./project.md
+    link: ./project
 
 
 # theme: jekyll-theme-minimal
