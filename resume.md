@@ -1,5 +1,6 @@
 ---
 title: project
+id:myresume
 permalink: /myresume/
 theme: jekyll-theme-minimal
 ---
