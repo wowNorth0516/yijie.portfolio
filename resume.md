@@ -1,5 +1,5 @@
 ---
-title: project
+title: resume
 id: myresume
 permalink: /myresume/
 ---
