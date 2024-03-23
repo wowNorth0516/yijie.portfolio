@@ -1,12 +1,10 @@
 title: Yijie Yang
 description: "Actively looking for a job"
 sidebar:
-  - getting-started
-  - label: Dev Docs
-    children:
-      - doc-1
-      - doc-2
-  - deployment
+  - myresume
+
 
 
 theme: jekyll-theme-minimal
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
