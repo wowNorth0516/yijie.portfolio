@@ -1,13 +1,33 @@
-layout: home
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
 title: Yijie Yang
 description: "Actively looking for a job"
+email: hinorth16@gmail.com
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/wowNorth0516/
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/yijieyang-north
+    
 navigation:
-  - name: Readme
+  - name: Home Page
+    link: ./
+  - name: Resume
     link: ./resume.md
   - name: Project
     link: ./project.md
 
 
-theme: jekyll-theme-minimal
-# remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+# theme: jekyll-theme-minimal
 
