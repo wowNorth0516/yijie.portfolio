@@ -1,12 +1,12 @@
 ## Education
-**Columbia University in the City of New York** _09/2022 – 12/2023_   
+**Columbia University in the City of New York** _(09/2022 – 12/2023)_   
 *Master of Arts and Science, Major in Statistics*
 
-**North Carolina State University** _08/2018 - 05/2022_  
+**North Carolina State University** _(08/2018 - 05/2022)_  
 *Bachelor of Science, Major in Statistics, Minor in Economics* 
 
 ## Professional Experience
-**Data Analyst Intern** _06/2022 - 08/2022_  
+**Data Analyst Intern** _(06/2022 - 08/2022)_  
 *_FlexGen, Durham, NC_*
 
 - Optimized InfluxDB data extraction, cleaning, and wrangling, improving data processing time by 10%.
