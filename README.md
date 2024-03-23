@@ -1,6 +1,4 @@
 
-#### Technical Skills: Python, R, SAS, PostgreSQL, Tableau
-
 ## Education
 - M.A., Statistics | Columbia University in the City of New York (_09/2022 – 12/2023_) 
 - B.S., Statistics; Minor, Economics | North Carolina State University (_08/2018 - 05/2022_)
