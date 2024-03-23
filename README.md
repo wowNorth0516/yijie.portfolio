@@ -1,12 +1,12 @@
+
+#### Technical Skills: Python, R, SAS, PostgreSQL, Tableau
+
 ## Education
-**Columbia University in the City of New York** _(09/2022 – 12/2023)_   
-*Master of Arts and Science, Major in Statistics*
+- M.A., Statistics | Columbia University in the City of New York (_09/2022 – 12/2023_) 
+- B.S., Statistics; Minor, Economics | North Carolina State University (_08/2018 - 05/2022_)
 
-**North Carolina State University** _(08/2018 - 05/2022)_  
-*Bachelor of Science, Major in Statistics, Minor in Economics* 
-
-## Professional Experience
-**Data Analyst Intern** _(06/2022 - 08/2022)_   
+## Professional Experience 
+**Data Analyst Intern** (_06/2022 - 08/2022_)   
 *FlexGen, Durham, NC*
 
 - Optimized InfluxDB data extraction, cleaning, and wrangling, improving data processing time by 10%.
@@ -15,7 +15,7 @@
 - Estimated to increase 10% of company revenue by providing a quantitative information platform for current and potential customers.
 
 
-**Data Analyst Intern**_(06/2020 - 08/2020)_  
+**Data Analyst Intern**(_06/2020 - 08/2020_)  
 *SQH Tech, Remote, China*
 
 - Queried the trust and trustee reports for a certain period, confirmed data accuracy over 200 reports; utilized Excel to generate quantitative reports with data visualization for clients.
@@ -24,12 +24,12 @@
 
 ## Selected Project
 **[Company Database Design and Front-End Web Development](https://github.com/wowNorth0516/w4111-proj1)**
-_(01/2023 – 04/2023)_   
+(_01/2023 – 04/2023_)     
 *Project Leader; Language/Package/Tool used: Python, PostgreSQL, Google Cloud Platform*
 -	Engineered a PostgreSQL database with over 5k entries on Google Cloud, ensuring data integrity and accuracy.
 -	Led front-end development, resulting in a web application that provided industry insights to job seekers and employees; presented functions such as user account authentication, timestamp filter, data visualization, and anonymous comment input; achieved responsive updates, less than 0.01s, with the database.
 
-**[Topic in NLP: Deeper Exploratory of Text Data in the Hotel Industry](https://docs.google.com/presentation/d/1biqIb0QbGwsKtpsmcakE0LAmIj5108ToGKEETWxrVUk/edit?usp=sharing)** _(03/2023 - 05/2023)_   
+**[Topic in NLP: Deeper Exploratory of Text Data in the Hotel Industry](https://docs.google.com/presentation/d/1biqIb0QbGwsKtpsmcakE0LAmIj5108ToGKEETWxrVUk/edit?usp=sharing)** (_03/2023 - 05/2023_)   
 *Project Leader; Language/Package/Tool used: Python, TextBlob, Scikit Learn, NLTK* 
 -	Lead a team of 4 and conducted sentiment analysis using TextBlob and NLTK, revealing key customer decision-making patterns in hotel selections.
 -	Designed two methods to facilitate personalized hotel selection for customers; using LDA model to generate relevant hotel options; Random Forest model to achieve precise predictions down to a specific hotel name. 
