@@ -4,6 +4,9 @@ id: myresume
 permalink: /myresume/
 ---
 
+## About Me:
+I am Yijie Yang, a data analyst. I have great expereicne in python, R, MySQL, SAS and statistical modeling skills. I am a fast learner who is passionate about advanture. I am currently looking for a new job, who is recently graduate from Columbia university with master degree in Statistics.
+
 ## Education
 - M.A., Statistics | Columbia University in the City of New York (_09/2022 – 12/2023_) 
 - B.S., Statistics; Minor, Economics | North Carolina State University (_08/2018 - 05/2022_)
