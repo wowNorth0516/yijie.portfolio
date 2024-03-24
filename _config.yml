@@ -1,6 +1,7 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: Yijie Yang
+logo: /assets/logo.jpg
 description: "Actively looking for a job"
 email: hinorth16@gmail.com
 favicon: true
